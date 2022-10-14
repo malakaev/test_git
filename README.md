@@ -1,4 +1,4 @@
 # test_git
 test_git
 
-тест часть 2
+part 3
